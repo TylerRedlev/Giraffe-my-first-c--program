@@ -48,6 +48,8 @@ namespace Giraffe
 
             Console.WriteLine(phrase.IndexOf("z"));// Outputs -1, which means that the string doesn't exist inside the query
             Console.WriteLine(phrase.IndexOf("z"));
+            Console.WriteLine(phrase.Substring("8"));//
+
             Console.ReadLine();
         }
     }
