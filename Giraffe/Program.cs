@@ -47,8 +47,7 @@ namespace Giraffe
             Console.WriteLine(phrase.IndexOf("Academy")); //Outputs the index of the queried string inside the variable
 
             Console.WriteLine(phrase.IndexOf("z"));// Outputs -1, which means that the string doesn't exist inside the query
-            Console.WriteLine(phrase.IndexOf("z"));
-            Console.WriteLine(phrase.Substring("8"));//
+            Console.WriteLine(phrase.Substring(8));//Grabs string from the index number and writes the rest starting from the index number
 
             Console.ReadLine();
         }
