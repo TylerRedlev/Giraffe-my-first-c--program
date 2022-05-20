@@ -36,6 +36,7 @@ namespace Giraffe
                                            //It has 28-29 digit Precision. To initialize a decimal variable, use the suffix m or M. Like as, decimal x = 300.5m;. If the suffix m or M will not use then it is treated as double.
             bool isMale = true;
 
+            //Working with strings, string attributes and string methods
 
             Console.WriteLine("Giraffe\nAcademy"); //used the escape character \n to skip a line
             Console.WriteLine(phrase.Length); //outputted the length of the string that is assigned to the variable phrase
