@@ -50,7 +50,7 @@ namespace Giraffe
             Console.WriteLine(phrase.IndexOf("z"));// Outputs -1, which means that the string doesn't exist inside the query
             Console.WriteLine(phrase.Substring(8));//Grabs string from the index number and writes the rest starting from the index number
 
-            Console.ReadLine();
+            Console.ReadLine();//Makes the program not close automatically after writing lines
         }
     }
-}
+}  
