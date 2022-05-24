@@ -51,6 +51,8 @@ namespace Giraffe
             Console.WriteLine(phrase.Substring(8));//Grabs string from the index number and writes the rest starting from the index number
 
             Console.ReadLine();//Makes the program not close automatically after writing lines
+
+            int[] integerArray = [1,2, 3]; //Created an array 
         }
     }
 }  
