@@ -53,6 +53,7 @@ namespace Giraffe
             Console.ReadLine();//Makes the program not close automatically after writing lines
 
             int[] integerArray = [1,2, 3]; //Created an array 
+            string[] stringArray = new string[] {"new", "string", "array"};//New string array created
         }
     }
 }  
