@@ -53,6 +53,13 @@ namespace Giraffe
             Console.ReadLine();//Makes the program not close automatically after writing lines
 
             string[] stringArray = new string[] {"new", "string", "array"};//New string array created
+
+            Book book1 {
+                book1.title = "Lord of the Rings";
+                book1.author = "Tolkien";
+                book1.pages = 700;
+
+            }
         }
     }
 }  

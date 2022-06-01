@@ -1,8 +1,10 @@
 ﻿using System;
 
-public class Class1
+public class Book
 {
-	class Book
-	{
-	}
+		public string title;
+		public int pages;
+		public string author;
+
+	
 }
