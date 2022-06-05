@@ -60,6 +60,8 @@ namespace Giraffe
                 book1.pages = 700;
 
             }
+
+            Book book2 = new Book();
         }
     }
 }  
